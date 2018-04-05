@@ -17,4 +17,7 @@ public class TestingActivity extends AppCompatActivity {
         Log.w(TAG, "onCreate");
         Log.i(TAG, "onCreate");
     }
+
+//        Testing for Yulin Branch commit.
+
 }
