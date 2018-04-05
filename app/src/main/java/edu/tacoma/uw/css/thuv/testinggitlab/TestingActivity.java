@@ -15,6 +15,6 @@ public class TestingActivity extends AppCompatActivity {
 
         Log.e(TAG, "onCreate");
         Log.w(TAG, "onCreate");
-        
+        Log.i(TAG, "onCreate");
     }
 }
