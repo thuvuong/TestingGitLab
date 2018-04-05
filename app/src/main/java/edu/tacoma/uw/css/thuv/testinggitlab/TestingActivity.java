@@ -14,6 +14,7 @@ public class TestingActivity extends AppCompatActivity {
         setContentView(R.layout.activity_testing);
 
         Log.e(TAG, "onCreate");
+        Log.w(TAG, "onCreate");
         
     }
 }
