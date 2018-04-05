@@ -13,8 +13,8 @@ public class TestingActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_testing);
 
-
-
+        Log.e(TAG, "onCreate");
+        Log.w(TAG, "onCreate");
         Log.i(TAG, "onCreate");
     }
 }
