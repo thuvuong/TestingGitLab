@@ -15,6 +15,6 @@ public class TestingActivity extends AppCompatActivity {
 
 
 
-        Log.v(TAG, "onCreate");
+        Log.i(TAG, "onCreate");
     }
 }
